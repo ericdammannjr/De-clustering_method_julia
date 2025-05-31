@@ -1,6 +1,6 @@
 # De-clustering_method_julia
 
-A Julia version of the matlab code for storm surge time series de-clustering found here: 
+A Julia version of the MATLAB code for storm surge time series de-clustering found here: 
 
 https://github.com/AriadnaMartin98/De-clustering_method
 

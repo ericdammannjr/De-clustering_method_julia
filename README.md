@@ -4,6 +4,6 @@ A Julia version of the MATLAB code for storm surge time series de-clustering fou
 
 https://github.com/AriadnaMartin98/De-clustering_method
 
-Orginial Code an algorithm developed by Ariadna Martin and was utilized in the following publication:
+Orginial code and algorithm developed by Ariadna Martin and was utilized in the following publication:
 
 https://www.sciencedirect.com/science/article/pii/S2212094724000628
